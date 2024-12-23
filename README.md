@@ -13,3 +13,6 @@ Gráfico de pizza
 Gráfico de densidade
 
 Gráfico de Regressão
+
+
+No arquivo Dash, criado visualização dos gráficos.
